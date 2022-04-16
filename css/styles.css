@@ -78,6 +78,11 @@ img {
   letter-spacing: 0.03em;
 }
 
+.section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
 .section-title {
   margin-bottom: 50px;
 
@@ -210,9 +215,6 @@ img {
 /* -----------------FEATURES-------------------*/
 
 .features {
-  padding-top: 94px;
-  padding-bottom: 94px;
-
   background-color: var(--first-background-color);
 }
 
@@ -265,9 +267,6 @@ img {
 /* ----------------------TEAM---------------------------- */
 
 .team {
-  padding-top: 94px;
-  padding-bottom: 94px;
-
   background-color: var(--third-background-color);
 }
 
@@ -355,9 +354,6 @@ img {
 /* ----------------------------------------------PORTFOlIO-------------------------- */
 
 .portfolio {
-  padding-top: 94px;
-  padding-bottom: 94px;
-
   background-color: var(--first-background-color);
 }
 
